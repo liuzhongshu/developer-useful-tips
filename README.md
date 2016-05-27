@@ -7,3 +7,6 @@ try add -n para to skip dns resolution.
 
 #### install java app as windows service
 use [nssm](https://nssm.cc/)
+
+#### save some useful sheet
+use [sheet9](http://www.sheet9.com)
