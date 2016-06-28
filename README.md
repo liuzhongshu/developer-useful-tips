@@ -10,3 +10,6 @@ use [nssm](https://nssm.cc/)
 
 #### save some useful sheet
 use [sheet9](http://www.sheet9.com)
+
+#### get your pulbic ip
+curl icanhazip.com
