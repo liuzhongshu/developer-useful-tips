@@ -13,3 +13,6 @@ use [sheet9](http://www.sheet9.com)
 
 #### get your pulbic ip
 curl icanhazip.com
+
+### send email using command line
+use [sendEmail](http://caspian.dotconf.net/menu/Software/SendEmail/),support windows/linux
