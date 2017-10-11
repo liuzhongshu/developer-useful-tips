@@ -8,8 +8,8 @@ try add -n para to skip dns resolution.
 #### install any app as windows service
 use [nssm](https://nssm.cc/)
 
-#### save some useful sheet
-use [sheet9](http://www.sheet9.com)
+#### see usb device and driver
+use [USBDeview](http://www.nirsoft.net/utils/usb_devices_view.html)
 
 #### get your pulbic ip
 curl icanhazip.com
